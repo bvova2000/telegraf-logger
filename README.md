@@ -5,8 +5,8 @@
 
 ### Как запустить проект:
 1. Клонируйте репозиторорий:  
-   `git clone https://github.com/username/docker-monitoring-project.git`  
-   `cd docker-monitoring-project`  
+   `git clone https://github.com/bvova2000/telegraf-logger.git`  
+   `cd telegraf-logger`  
 
 2. Запустите контейнеры:  
    `docker-compose up -d`  
